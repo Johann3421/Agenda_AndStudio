@@ -12,4 +12,16 @@
     <string name="ConfirmarContraseñaEt">Confirmar Contraseña</string>
     <string name="RegistrarUsuario">Registrar</string>
     <string name="TengoUnaCuentaTXT">Tengo Una Cuenta</string>
+
+    <!--INTERFAZ DE MENU-->
+
+    <string name="CerrarSession">Salir</string>
+
+    <!--INTERFAZ DE Loggin-->
+    
+    <string name="IniciarSessionTXT">Iniciar Session</string>
+    <string name="CorreoLogin">Correo</string>
+    <string name="PassLogin">Contraseña</string>
+    <string name="Btn_Logeo">Ingresar</string>
+    <string name="UsuarioNuevoTXT">¿No tienes una cuenta?. Registrate</string>
 </resources>

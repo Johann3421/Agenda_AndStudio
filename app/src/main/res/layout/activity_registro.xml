@@ -78,21 +78,20 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
-            app:passwordToggleEnabled="true"
-            app:hintEnabled="false">
+            app:hintEnabled="false"
+            app:passwordToggleEnabled="true">
 
 
             <EditText
                 android:id="@+id/ContraseñaEt"
-                android:hint="@string/ContraseñaEt"
-                android:inputType="textPassword"
-                android:fontFamily="@font/worksans"
-                android:padding="20dp"
-                android:drawableStart="@drawable/icono_password"
-                android:drawablePadding="10dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                />
+                android:drawableStart="@drawable/icono_password"
+                android:drawablePadding="10dp"
+                android:fontFamily="@font/worksans"
+                android:hint="@string/ContraseñaEt"
+                android:inputType="textPassword"
+                android:padding="20dp" />
 
         </com.google.android.material.textfield.TextInputLayout>
 
